@@ -1,7 +1,3 @@
----
-layout: cv
-title: Andrii Maksymets's CV
----
 # Andrii Maksymets
 
 _C#/F#/TypeScript Developer_ <br>
