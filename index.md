@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+---
+layout: cv
+title: Andrii Maksymets's CV
+---
+# Andrii Maksymets
 
-You can use the [editor on GitHub](https://github.com/ma3yta/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+_C#/F#/TypeScript Developer_ <br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<a href="mailto:maksimetsa@gmail.com">maksimetsa@gmail.com</a>
+|
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" width="13"> <a href="https://www.linkedin.com/in/ma3yta/">ma3yta</a>
+|
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/telegram.svg" width="13"> <a href="https://t.me/ma3yta">ma3yta</a>
+|
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="13"> <a href="https://github.com/ma3yta/">ma3yta</a>
+|
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/twitter.svg" width="13"> <a href="https://twitter.com/ma3yta/">ma3yta</a>
 
-### Markdown
+## Professional Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+`December 2011 – July 2012` 
+__Junior .NET Developer, GlobalLogic,__ Lviv, Ukraine
 
-```markdown
-Syntax highlighted code block
+- Video security system
+- Technologies: .NET Framework, WCF, ASP.NET, WCF, MSTest, Wowza Media Server, Silverlight, Flash,
+HTML/CSS/JS
 
-# Header 1
-## Header 2
-### Header 3
+`August 2012 - February 2014` 
+__.NET Developer, Freeze Pro Software,__ Lviv, Ukraine
 
-- Bulleted
-- List
+- Virtual Group Fitness Software for embedded kiosk
+- Technologies: .Net Framework, ASP.NET, EF, HTML/CSS/JS
 
-1. Numbered
-2. List
+`June 2014 - July 2020` 
+__.NET Developer, Nowinfinity Pty Ltd,__ Queensland, Australia
 
-**Bold** and _Italic_ and `Code` text
+- Accounting Software (Companies/super funds/trusts registration and management, e-sign, government reporting, chat bot)
+- Technologies: .NET Framework, ASP.NET, MS SQL, DynamicsCRM, TypeScript/AureliaJS, Redis, ElasticSearch, IdentityServer3, RabbitMQ, MassTransit, BotBuilder, WPF, MVVM Light
 
-[Link](url) and ![Image](src)
-```
+`July 2020 - September 2021`
+__.NET Developer, We:Accelerate Pty Ltd,__ Queensland, Australia
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+- Business valuation tool
+- Technologies: .NET Core, Azure Functions, GraphQL/HotChocolate, SignalR, Azure Service Bus/MassTransit, AD B2C, GitHub
+Actions, CosmosDB/MongoDB/EF, Blazor
 
-### Jekyll Themes
+## Education
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ma3yta/cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+`September 2006 – July 2010`
+__National University “Lvivska polytechnica” (Lviv, Ukraine)__
+Computer Science, Bachelor
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+`September 2010 – December 2011`
+__National University “Lvivska polytechnica” (Lviv, Ukraine)__
+Computer Science, Specialist
