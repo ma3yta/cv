@@ -40,6 +40,14 @@ __.NET Developer, We:Accelerate Pty Ltd,__ Queensland, Australia
 > Technologies: .NET Core, Azure Functions, GraphQL/HotChocolate, SignalR, Azure Service Bus/MassTransit, AD B2C, GitHub
 Actions, CosmosDB/MongoDB/EF, Blazor
 
+## Education
+
+`Sep 2006 – Jul 2010`
+__National University “Lvivska polytechnica” (Lviv, Ukraine)__ Computer Science, Bachelor
+
+`Sep 2010 – Dec 2011`
+__National University “Lvivska polytechnica” (Lviv, Ukraine)__ Computer Science, Specialist
+
 ## Technical skills
 
 * C#
@@ -61,10 +69,3 @@ Actions, CosmosDB/MongoDB/EF, Blazor
 * ElasticSearch
 * Redis
 
-## Education
-
-`Sep 2006 – Jul 2010`
-__National University “Lvivska polytechnica” (Lviv, Ukraine)__ Computer Science, Bachelor
-
-`Sep 2010 – Dec 2011`
-__National University “Lvivska polytechnica” (Lviv, Ukraine)__ Computer Science, Specialist
