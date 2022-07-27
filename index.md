@@ -21,22 +21,26 @@ _C#/F#/TypeScript Developer_ <br>
 `Dec 2011 – Jul 2012` 
 __Junior .NET Developer, GlobalLogic,__ Lviv, Ukraine
 > Video security system
+
 > Technologies: .NET Framework, WCF, ASP.NET, WCF, MSTest, Wowza Media Server, Silverlight, Flash,
 HTML/CSS/JS
 
 `Aug 2012 - Feb 2014` 
 __.NET Developer, Freeze Pro Software,__ Lviv, Ukraine
 > Virtual Group Fitness Software for embedded kiosk
+
 > Technologies: .Net Framework, ASP.NET, EF, HTML/CSS/JS
 
 `Jun 2014 - Jul 2020` 
 __.NET Developer, Nowinfinity Pty Ltd,__ Queensland, Australia
 > Accounting Software (Companies/super funds/trusts registration and management, e-sign, government reporting, chat bot)
+
 > Technologies: .NET Framework, ASP.NET, MS SQL, DynamicsCRM, TypeScript/AureliaJS, Redis, ElasticSearch, IdentityServer3, RabbitMQ, MassTransit, BotBuilder, WPF, MVVM Light
 
 `Jul 2020 - Sep 2021`
 __.NET Developer, We:Accelerate Pty Ltd,__ Queensland, Australia
 > Business valuation tool
+
 > Technologies: .NET Core, Azure Functions, GraphQL/HotChocolate, SignalR, Azure Service Bus/MassTransit, AD B2C, GitHub
 Actions, CosmosDB/MongoDB/EF, Blazor
 
