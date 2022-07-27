@@ -43,10 +43,10 @@ Actions, CosmosDB/MongoDB/EF, Blazor
 ## Education
 
 `Sep 2006 – Jul 2010`
-__National University “Lvivska polytechnica” (Lviv, Ukraine)__ Computer Science, Bachelor
+__Lviv Polytechnic National University (Lviv, Ukraine)__ Computer Science, Bachelor
 
 `Sep 2010 – Dec 2011`
-__National University “Lvivska polytechnica” (Lviv, Ukraine)__ Computer Science, Specialist
+__Lviv Polytechnic National University (Lviv, Ukraine)__ Computer Science, Specialist
 
 ## Technical skills
 
